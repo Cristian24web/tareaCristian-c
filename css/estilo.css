@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+}
+.padre{
+    background-color: red;
+    padding: 20px; /*el ancho*/
+    /*width: 200px; el largo*/
+}
+.hijo{
+    background-color: yellow;
+    padding: 20px;
+}
+.nieto{
+    background-color: chartreuse;
+    padding: 20px;
+}
+.bisnieto{
+    background-color:aqua;
+    padding: 20px;
+}
+.h5{
+    background-color: orangered;
+    padding: 20px;
+
+}
+.h6{
+    background-color:blue;
+    padding: 20px;
+}
+.h7{
+    background-color: aquamarine;
+    padding: 20px;
+}
